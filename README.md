@@ -1,2 +1,1 @@
-# responsive-navigation-bar
-it gives you a responsive navigation bar
+HELLO WELCOME TO ABI CODE  AND IT IS DEVELOPED BY JS,HTML AND CSS....
